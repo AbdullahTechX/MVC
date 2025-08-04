@@ -12,7 +12,7 @@ The Student Management System is a web-based application developed using the C# 
 ## 🛠 Tech Stack
 - ASP.NET MVC (C#)
 - Entity Framework
-- SQL Server
+- Microsoft SQL Server
 - Bootstrap
 
 ## ⚙️ Setup Instructions
